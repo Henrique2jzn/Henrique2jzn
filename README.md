@@ -1,8 +1,12 @@
-## Olá! Meu nome é Henrique e tenho 15 anos, faço curso técnico  em eletrônica e no momento estou estudando Ruby.
+## Olá! Meu nome é Henrique e tenho 16 anos, faço técnico em eletrônica e estudo Java.
 
-#### Tenho foco na área Back-end, e futuramento pretendo estudar C e PHP
-#### Estou utilizando o livro "Introdução à Computação Da Lógica aos jogos com Ruby" para estudar no momento.
+#### Tenho foco na área Back-end, e pretendo estudar C e C#
+
 <div style="display: inline-block">
-  <img align="center" alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-
+ 
+  <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+  
 </div>
